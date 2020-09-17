@@ -1,0 +1,2 @@
+#replace string in text
+sed -i 's/search_string/replace_string/' filename
